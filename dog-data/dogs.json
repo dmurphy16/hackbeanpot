@@ -1,0 +1,290 @@
+{
+  "dogs": {
+    "Atticus": {
+      "activity": "low",
+      "age": "puppy",
+      "desc": "Atticus is an affectionate young Lab who is especially excited around kids. She loves being pampered and given treats!",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/atticus.png",
+      "sex": "female"
+    },
+    "Brutus": {
+      "activity": "high",
+      "age": "young",
+      "desc": "Brutus’s favorite activities are playing catch and going on any type of adventure. This goofy Weimeraner is an all-around athlete and is sure to keep you on your feet!",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "no",
+      "photo": "/src/dog-data/brutus.png",
+      "sex": "male"
+    },
+    "Caesar": {
+      "activity": "medium",
+      "age": "adult",
+      "desc": "Caesar is a fiercely loyal Shiba/Shikoku. He is always ready to protect his owner, and is sometimes aggressive with other dogs.",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "no",
+      "photo": "/src/dog-data/caesar.png",
+      "sex": "male"
+    },
+    "Dante": {
+      "activity": "medium",
+      "age": "senior",
+      "desc": "Although Dante is an older dog, this mutt can still be quite active. She loves going on an adventure just as much as she loves to cuddle.",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/dante.png",
+      "sex": "female"
+    },
+    "Esmeralda": {
+      "activity": "medium",
+      "age": "young",
+      "desc": "Esmeralda is a young furball who enjoys playing with other dogs. This Bernese Mountain Dog also loves learning new tricks, especially because of the tasty treats she always earns!",
+      "size": "large",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/esmeralda.png",
+      "sex": "female"
+    },
+    "Fabian": {
+      "activity": "high",
+      "age": "puppy",
+      "desc": "Fabian will bring back every tennis ball you throw, and more! This Golden Lab mix loves it when you scratch behind her ears, and can smell a milkbone from a mile away.",
+      "dog size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/fabian.png",
+      "sex": "female"
+    },
+    "Gabriel": {
+      "activity": "low",
+      "age": "adult",
+      "desc": "Gabriel is not a bear, but he sleeps almost as much as one! When this Newfoundland is not hibernating, he likes lounging on soft blankets and licking your hand.",
+      "size": "huge",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "no",
+      "photo": "/src/dog-data/gabriel.png",
+      "sex": "male"
+    },
+    "Ham": {
+      "activity": "high",
+      "age": "adult",
+      "desc": "Make sure to take Ham on his daily walk, or this energetic Golden run around the house instead! Surprisingly, his favorite treats are chicken-flavoured.",
+      "size": "large",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/ham.png",
+      "sex": "male"
+    },
+    "Ichabod": {
+      "activity": "medium",
+      "age": "young",
+      "desc": "Ichabod the Corgi is goofy and affectionate! He loves head scratches, belly rubs, and neck scritches. More pets, please!",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/ichabod.png",
+      "sex": "male"
+    },
+    "Jellybean": {
+      "activity": "high",
+      "age": "adult",
+      "desc": "Jellybean absolutely loves running around his own private yard. If you've wondered how a Boston Terrier with a sugar rush might act, this pup is a match!",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "no",
+      "photo": "/src/dog-data/jellybean.png",
+      "sex": "male"
+    },
+    "Kansas": {
+      "activity": "medium",
+      "age": "puppy",
+      "desc": "Kansas will belt out a mighty tune, and you might see her ears perk up to the radio. But this Pug's not a fan of sharing the stage with kids or other pups.",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs dogs": "no",
+      "photo": "/src/dog-data/kansas.png",
+      "sex": "female"
+    },
+    "Lobster": {
+      "activity": "low",
+      "age": "young",
+      "desc": "Lobster jumps for joy at the smell of seafood! It's the only time you'll see her jump, but this Pomeranian will follow you around everywhere to nap on your lap.",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "no",
+      "photo": "/src/dog-data/lobster.png",
+      "sex": "female"
+    },
+    "Marshmallow": {
+      "activity": "high",
+      "age": "young",
+      "desc": "Marshmallow is always excited to see you! And you! And everyone! Lots of love and energy in such a small body... get ready for one playful terrier mix!",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/marshmallow.png",
+      "sex": "female"
+    },
+    "Nosferatu": {
+      "activity": "low",
+      "age": "puppy",
+      "desc": "Nosferatu loves rolling around indoors, and only comes outside when promised a treat! This Golden Lab is a perfect sleepy companion for night owls and vampires.",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/nosferatu.png",
+      "sex": "male"
+    },
+    "Octagon": {
+      "activity": "medium",
+      "age": "puppy",
+      "desc": "Octagon is on a mission to fetch as many balls as he can! This Beagle searches far and wide with fellow puppies, and likes snacking on a few treats when he's all tuckered out.",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/octagon.png",
+      "sex": "male"
+    },
+    "Pepper": {
+      "activity": "high",
+      "age": "puppy",
+      "desc": "Don't be deceived by this sleepy looking angel! Pepper the Jack Russell is one intense little bean, can you keep up?",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "no",
+      "photo": "/src/dog-data/pepper.png",
+      "sex": "male"
+    },
+    "Quota": {
+      "activity": "high",
+      "age": "young",
+      "desc": "Quota the Rhodesian/Rottie is an olympian athlete, and her gold medals are milkbone treats. She doesn't know her own strength, so kids should keep their distance.",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/quota.png",
+      "sex": "female"
+    },
+    "Raspberry": {
+      "activity": "low",
+      "age": "senior",
+      "desc": "Playful and snarky, you can almost see Raspberry roll her eyes when you make a bad joke. This affectionate mutt still loves everyone though, promise. ",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/raspberry.png",
+      "sex": "female"
+    },
+    "Soup": {
+      "activity": "medium",
+      "age": "adult",
+      "desc": "Soup is wise, calm, and likely noble (being a Husky/Malamute mix, we dub him King of the North). He has the same effect as chicken soup for you and your family's mind and soul.",
+      "size": "large",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/soup.png",
+      "sex": "male"
+    },
+    "Tuba": {
+      "activity": "medium",
+      "age": "adult",
+      "desc": "Tuba is one loud lady! When she's not barking at the mailman or the neighborhood children, this Scottish Terrier likes playing with her squeaky toys and getting belly rubs from you. ",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/tuba.png",
+      "sex": "female"
+    },
+    "Ulna": {
+      "activity": "low",
+      "age": "adult",
+      "desc": "Ulna may seem relaxed and calm, but she can be fierce! One thing's for sure: you won't be breaking any ulnas playing with this purebred Aussie. ",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "no",
+      "photo": "/src/dog-data/ulna.png",
+      "sex": "female"
+    },
+    "Vermont": {
+      "activity": "medium",
+      "age": "adult",
+      "desc": "Vermont is a rockstar that can light up your home! This Nova Scotia Duck Tolling/Australian Shephard Mix loves belly rubs, and her motherly instincts make her very friendly with everyone.  ",
+      "size": "large",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/vermont.png",
+      "sex": "female"
+    },
+    "Wonton": {
+      "activity": "medium",
+      "age": "adult",
+      "desc": "She'll snooze in your chair, your bed, your lap, and your couch. If you've ever wanted a large warm pillow for you and your kids, this sweet senior Lab named Wonton is the one for you!",
+      "size": "huge",
+      "email": "doggo@shelter,com",
+      "kids": "yes",
+      "dogs": "yes",
+      "photo": "/src/dog-data/wonton.png",
+      "sex": "female"
+    },
+    "Xander": {
+      "activity": "high",
+      "age": "young",
+      "desc": "Xander is one silly goose and tennis lover! This protective Sheepdog mix will make sure you get your steps in for the day, but you may want to keep her away from other pups.",
+      "size": "medium",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "no",
+      "photo": "/src/dog-data/xander.png",
+      "sex": "female"
+    },
+    "Yarn": {
+      "activity": "medium",
+      "age": "young",
+      "desc": "Yarn may look like the typical Pomeranian ball of energy, but he sleeps just as hard as he plays! His favorite snack is fingers. Will need basic house/manners training before being good around children.",
+      "size": "small",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/yarn.png",
+      "sex": "male"
+    },
+    "Zeus": {
+      "activity": "low",
+      "age": "senior",
+      "desc": "Zeus is a senior Golden Retriever that enjoys sharing treats with furry friends and lounging around all day. Due to her age, her owners should be ready for frequent visits to the vet.",
+      "size": "large",
+      "email": "doggo@shelter,com",
+      "kids": "no",
+      "dogs": "yes",
+      "photo": "/src/dog-data/zeus.png",
+      "sex": "female"
+    }
+  }
+}

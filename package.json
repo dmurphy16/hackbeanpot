@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-starter-default",
+  "description": "Gatsby default starter",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "firebase": "^8.2.9",
+    "gatsby": "^1.9.279",
+    "gatsby-cli": "^2.19.1",
+    "gatsby-link": "^1.6.15",
+    "gatsby-plugin-react-helmet": "^1.0.5",
+    "react": "^16.4.0",
+    "react-native": "^0.63.4",
+    "styled-components": "^5.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.6.1"
+  }
+}
